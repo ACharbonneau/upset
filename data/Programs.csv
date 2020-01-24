@@ -1,0 +1,66 @@
+Tissue,GTEx,HMP,LINCS,Metabolomics,SPARC,4DNucleome,MoTrPAC,Kids First,HuBMAP,KOMP,UDN,IDG,A2CPS,ExRNA
+Adipose - Subcutaneous,1,0,0,1,0,0,1,0,0,0,0,1,0,0
+Adipose - Visceral (Omentum),1,0,0,1,0,0,0,0,0,1,0,0,0,0
+Adrenal Gland,1,0,1,0,0,0,0,1,0,1,0,1,0,0
+Amniotic Fluid,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+Artery - Aorta,1,0,0,0,0,1,0,0,0,0,0,1,0,0
+Artery - Coronary,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Artery - Tibial,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Bladder,1,0,1,0,0,0,0,0,0,1,0,1,0,1
+Bone,0,0,1,0,0,1,0,1,0,1,0,1,0,0
+Brain - Amygdala,1,0,1,1,0,0,0,1,0,1,0,1,0,1
+Brain - Anterior cingulate cortex (BA24),1,0,1,1,0,0,0,1,0,1,0,1,0,1
+Brain - Caudate (basal ganglia),1,0,1,1,0,0,0,1,0,1,0,1,0,1
+Brain - Cerebellar Hemisphere,1,0,1,1,0,0,0,1,0,1,0,1,0,1
+Brain - Cerebellum,1,0,1,1,0,0,0,1,0,1,0,1,0,1
+Brain - Cortex,1,0,1,1,0,1,0,1,0,1,0,1,0,1
+Brain - Frontal Cortex (BA9),1,0,1,1,0,0,0,1,0,1,0,1,0,1
+Brain - Hippocampus,1,0,1,1,0,0,0,1,0,1,0,1,0,1
+Brain - Hypothalamus,1,0,1,1,0,0,0,1,0,1,0,1,0,1
+Brain - Nucleus accumbens (basal ganglia),1,0,1,1,0,0,0,1,0,1,0,1,0,1
+Brain - Putamen (basal ganglia),1,0,1,1,0,0,0,1,0,1,0,1,0,1
+Brain - Spinal cord (cervical c-1),1,0,1,1,1,0,0,1,0,1,0,1,0,1
+Brain - Substantia nigra,1,0,1,1,0,0,0,1,0,1,0,1,0,1
+Breast - Mammary Tissue,1,0,1,0,0,1,0,0,0,1,0,1,0,0
+Breath,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+Cells - Cultured fibroblasts,1,0,1,1,0,0,0,1,0,0,0,0,0,0
+Cells - EBV-transformed lymphocytes,1,0,1,0,0,1,0,0,0,0,0,0,0,0
+Cervix - Ectocervix,1,1,1,0,0,0,0,0,0,0,0,1,0,0
+Cervix - Endocervix,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+Colon - Sigmoid,1,1,1,1,1,1,0,0,0,1,0,1,0,0
+Colon - Transverse,1,1,1,1,1,1,0,0,0,1,0,1,0,1
+Esophagus - Gastroesophageal Junction,1,0,1,0,0,0,0,0,0,1,0,0,0,0
+Esophagus - Mucosa,1,1,1,0,0,0,0,0,0,1,0,1,0,0
+Esophagus - Muscularis,1,0,0,0,0,0,0,0,0,1,0,0,0,0
+Fallopian Tube,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+Heart - Atrial Appendage,1,0,1,1,1,0,0,0,0,0,0,1,0,0
+Heart - Left Ventricle,1,0,1,1,1,1,1,1,0,1,0,1,0,0
+Kidney - Cortex,1,0,1,1,0,0,0,1,0,1,0,1,0,0
+Kidney - Medulla,1,0,1,1,0,0,0,1,0,1,0,1,0,0
+Liver,1,0,1,1,0,0,1,1,0,1,0,1,0,0
+Lung,1,0,1,1,0,1,0,0,0,0,0,1,0,1
+Minor Salivary Gland,1,1,0,1,0,0,0,0,0,0,1,0,0,1
+Muscle - Skeletal,1,0,0,1,0,0,1,0,0,1,0,0,0,0
+Nasal,0,1,0,0,0,1,0,0,0,0,0,1,0,0
+Nerve - Tibial,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+Ovary,1,0,1,1,0,0,0,0,0,1,0,1,0,1
+Pancreas,1,0,1,1,1,0,0,0,0,1,0,1,0,0
+Pituitary,1,0,0,0,0,0,0,1,0,0,0,0,0,0
+Prostate,1,0,1,1,0,0,0,0,0,0,0,1,0,0
+Rectum,0,1,1,0,0,0,0,0,0,0,0,1,0,0
+Retina,0,0,0,1,0,1,0,0,0,0,0,1,0,0
+Skin - Not Sun Exposed (Suprapubic),1,1,1,1,0,1,0,0,0,1,0,1,0,0
+Skin - Sun Exposed (Lower leg),1,1,1,1,0,0,0,0,0,1,0,1,0,0
+Small Intestine - Terminal Ileum,1,0,1,1,0,0,0,0,0,0,0,1,0,0
+Spleen,1,0,0,1,0,0,0,0,0,1,0,1,0,0
+Stomach,1,0,1,0,1,0,0,0,0,1,0,1,0,0
+Testis,1,0,1,0,0,0,0,0,0,1,0,1,0,0
+Thyroid,1,0,1,0,0,0,0,0,0,1,0,1,0,0
+umbilical,0,0,0,0,0,1,0,0,0,0,0,1,0,1
+Uterus,1,0,1,0,0,0,0,0,0,1,0,1,0,0
+Vagina,1,1,1,0,0,0,0,0,0,0,0,1,0,0
+Whole Blood,1,1,1,1,0,1,1,1,0,1,1,1,0,1
+Optic Nerve,0,0,0,1,0,0,0,1,0,1,1,1,0,0
+Bone Marrow,0,0,0,1,0,0,0,1,0,1,1,1,0,0
+Thymus,0,0,0,0,0,0,0,0,0,1,1,1,0,0
+Thalamus,0,0,0,0,0,0,0,1,0,0,0,1,0,0
