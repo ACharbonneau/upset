@@ -30,17 +30,17 @@ More specifically:
 
 - On the [4D Nucleome Data Browser](https://data.4dnucleome.org/browse/?award.project=4DN&experimentset_type=replicate&type=ExperimentSetReplicate) I restricted the datasets to only '4DNucleome' and used the 'Tissue Source' filter options.
 
-- For MoTrPAC, I used [this tissue list](http://study-docs.motrpac-data.org/MoTrPAC_External_Data_Release_ReadMe.pdf)
+- For MoTrPAC, I used [this tissue list](http://study-docs.motrpac-data.org/MoTrPAC_External_Data_Release_ReadMe.pdf).
 
-- Kids First
+- On the [Kids First Data Portal](https://portal.kidsfirstdrc.org/explore), I used the filtering options for Biospecimens/Anatomical Site (Source Text).
 
 - HuBMAP does not yet have data, and so has only zeros.
 
-- KOMP
+- For KOMP, I searched the entire set of tissue types in my list at the [KOMP Phenotyping website](https://www.kompphenotype.org/index.php). Since this was a search rather than getting a list of their tissues, I'm sure some are missing. 
 
-- UDN
+- For UDN, I scrolled through the BioSamples associated with [Clinical and Genetic Evaluations of Individuals with Undiagnosed Disorders Through the Undiagnosed Diseases Network (human)](https://www.ncbi.nlm.nih.gov/biosample?Db=biosample&DbFrom=bioproject&Cmd=Link&LinkName=bioproject_biosample&LinkReadableName=BioSample&ordinalpos=1&IdsFromResult=350184,350185)
 
-- IDG
+- IDG was recently renewed, and I couldn't easily locate data on their new site, so I used the [disease listing from the data site for their first phase](https://pharos.nih.gov/diseases) and associated the diseases with their tissues. There are 34697 disease entries, and they are arranged by the amount of data available for each one. I did not scroll through all 34697, I just did the first 1000.
 
 - A2CPS does not yet have data, and so has only zeros. 
 
