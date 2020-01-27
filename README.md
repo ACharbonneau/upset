@@ -47,10 +47,14 @@ More specifically:
 - At ExRNA, I used the [list of biofluids in the 'Biofluids vs Condition Grid](https://exrna-atlas.org/exat/fluidVsDis)
 
 
-
-
 ## Data Decisions
 
-if it was the diseased version of a tissue, I counted it as that tissue: for e.g. colon cancer is colon tissue, kidney cancer is kidney tissue
-if it was a cell line, i counted it as it’s source tissue unless:
-and was undifferentiated, a stem cell, or a metatisticized cell in which case I just excluded them
+The goal of this exercise is to identify where a researcher might find different kinds of samples about their research tissue to answer a research question. For example, they may want to find all available information about a particular disease to build a hypothesis, or to determine what new type of analysis would be most likely to find the types of changes they are looking for. To facilitate that kind of question, I made the following tissue generalizations:
+
+- If a sample was from the diseased version of a tissue, I counted it as that tissue: For e.g. colon cancer is colon tissue, kidney cancer is kidney tissue
+- If the sample was a biofluid associated with a tissue, I counted it as that tissue. For e.g. saliva is counted as 'salivary gland', a microbiome sample of the colon is counted as 'colon'.
+- If the sample was from a cultured cell line, I counted it as it's source tissue. For e.g. cultured kidney cell is kidney tissue. EXCEPT:
+    - fibroblasts and lymphocytes, which are explicity listed in the matrix
+    - undifferentiated cells, dedifferentiated cells, stem cells, and metatisticized cancer cells where are all excluded
+- I assumed that skin tissue from cell culture, or furry creatures (mice, rats, etc) was not sun exposed
+- GTEx distingushes between brain tissues by region, whereas most other programs distingush by cell types that may occur variously throughout the brain. Therefore, in most cases, I can only distinguish between 'Brain', 'Spinal cord' and 'Brain stem'. So, for example, Kids First has a '1' for all brain tissues, but may or may not have samples from all of the GTEx regions. The brain tissues listed could be collapsed into 'Brain', 'Spinal cord' and 'Brain stem' without losing any data, however I have left them as is to show the variety of data available. 
