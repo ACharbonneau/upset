@@ -30,7 +30,7 @@ More specifically:
 
 - On the [4D Nucleome Data Browser](https://data.4dnucleome.org/browse/?award.project=4DN&experimentset_type=replicate&type=ExperimentSetReplicate) I restricted the datasets to only '4DNucleome' and used the 'Tissue Source' filter options.
 
-- For MoTrPAC, I used [this tissue list (fourth bullet point in the introduction](http://study-docs.motrpac-data.org/MoTrPAC_External_Data_Release_ReadMe.pdf).
+- For MoTrPAC, I used [this tissue list ](http://study-docs.motrpac-data.org/MoTrPAC_External_Data_Release_ReadMe.pdf) (fourth bullet point in the introduction).
 
 - On the [Kids First Data Portal](https://portal.kidsfirstdrc.org/explore), I used the filtering options for Biospecimens/Anatomical Site (Source Text).
 
