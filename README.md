@@ -10,18 +10,43 @@ I am hosting this instance of UpSet at [https://acharbonneau.github.io/upset/](h
 
 ## Data Collection
 
+The dataset is a simple binary code:
+- 0 means 'this tissue is not found in this programs dataset'
+- 1 means 'this tissue is found in this programs dataset'
 
-Starting with GTEx, who helpfully lists all their tissues in a downloadable table
-going to each other DCC and going through their data, adding tissues as I came across new ones
+Very generally, the data was compiled by starting with the GTEx tissue list, checking each other programs data against that list, and adding tissues as needed.
 
-[V8 Sample Counts by Tissues](https://gtexportal.org/home/tissueSummaryPage)
+More specifically:
+
+- I downloaded the [V8 Sample Counts by Tissues](https://gtexportal.org/home/tissueSummaryPage) from GTEx, extracted column one, and assigned GTEx a '1' for each row. 
+
+- I used the ['Body Site' filter options](https://portal.hmpdacc.org/search/s?facetTab=cases) from the Human Microbiome Project.
+
+- LINCS
+
+- I used the tissues shown in the ['Sample Source' bubble plot](https://www.metabolomicsworkbench.org/data/Bubble_source3.php) at Metabolomics
+
+- SPARC
+
+- 4D Nucleome
+
+- MoTrPAC
+
+- Kids First
+
+- HuBMAP does not yet have data, and so has only zeros.
+
+- KOMP
+
+- UDN
+
+- IDG
+
+- A2CPS does not yet have data, and so has only zeros. 
+
+- ExRNA
 
 
-
-
-
-
-['Body Site' filter options](https://portal.hmpdacc.org/search/s?facetTab=cases)
 
 
 ## Data Decisions
