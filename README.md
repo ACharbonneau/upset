@@ -32,7 +32,7 @@ More specifically:
 
 - For MoTrPAC, I used [this tissue list ](http://study-docs.motrpac-data.org/MoTrPAC_External_Data_Release_ReadMe.pdf) (fourth bullet point in the introduction).
 
-- On the [Kids First Data Portal](https://portal.kidsfirstdrc.org/explore), I used the filtering options for Biospecimens/Anatomical Site (Source Text).
+- On the [Kids First Data Portal](https://portal.kidsfirstdrc.org/explore), I used the filtering options for "Biospecimens"/"Anatomical Site (Source Text)".
 
 - HuBMAP does not yet have data, and so has only zeros.
 
