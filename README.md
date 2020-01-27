@@ -40,11 +40,11 @@ More specifically:
 
 - For UDN, I scrolled through the BioSamples associated with [Clinical and Genetic Evaluations of Individuals with Undiagnosed Disorders Through the Undiagnosed Diseases Network (human)](https://www.ncbi.nlm.nih.gov/biosample?Db=biosample&DbFrom=bioproject&Cmd=Link&LinkName=bioproject_biosample&LinkReadableName=BioSample&ordinalpos=1&IdsFromResult=350184,350185)
 
-- IDG was recently renewed, and I couldn't easily locate data on their new site, so I used the [disease listing from the data site for their first phase](https://pharos.nih.gov/diseases) and associated the diseases with their tissues. There are 34697 disease entries, and they are arranged by the amount of data available for each one. I did not scroll through all 34697, I just did the first 1000.
+- IDG was recently renewed, and I couldn't easily locate data on their new site, so I used the [disease listing from the data site for their first phase](https://pharos.nih.gov/diseases) and associated the diseases with their tissues. There are 34697 disease entries, and they are arranged by the amount of data available for each one. I did not scroll through all 34697, I just did the first ~2000.
 
 - A2CPS does not yet have data, and so has only zeros. 
 
-- ExRNA
+- At ExRNA, I used the [list of biofluids in the 'Biofluids vs Condition Grid](https://exrna-atlas.org/exat/fluidVsDis)
 
 
 
