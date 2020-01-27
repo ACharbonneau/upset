@@ -35,8 +35,8 @@ Esophagus - Muscularis,1,0,0,0,0,0,0,0,0,1,0,0,0,0
 Fallopian Tube,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 Heart - Atrial Appendage,1,0,1,1,1,0,0,0,0,0,0,1,0,0
 Heart - Left Ventricle,1,0,1,1,1,1,1,1,0,1,0,1,0,0
-Kidney - Cortex,1,0,1,1,0,0,0,1,0,1,0,1,0,0
-Kidney - Medulla,1,0,1,1,0,0,0,1,0,1,0,1,0,0
+Kidney - Cortex,1,0,1,1,0,1,0,1,0,1,0,1,0,0
+Kidney - Medulla,1,0,1,1,0,1,0,1,0,1,0,1,0,0
 Liver,1,0,1,1,0,0,1,1,0,1,0,1,0,0
 Lung,1,0,1,1,0,1,0,0,0,0,0,1,0,1
 Minor Salivary Gland,1,1,0,1,0,0,0,0,0,0,1,0,0,1
