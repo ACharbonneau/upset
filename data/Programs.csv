@@ -26,7 +26,7 @@ Breath,0,0,0,1,0,0,0,0,0,0,0,0,0,0
 Cells - Cultured fibroblasts,1,0,1,1,0,1,0,1,0,0,0,0,0,0
 Cells - EBV-transformed lymphocytes,1,0,1,0,0,1,0,0,0,0,0,0,0,0
 Cervix - Ectocervix,1,1,1,0,0,0,0,0,0,0,0,1,0,0
-Cervix - Endocervix,1,0,1,0,0,0,0,0,0,0,0,1,0,0
+Cervix - Endocervix,1,0,1,0,0,1,0,0,0,0,0,1,0,0
 Colon - Sigmoid,1,1,1,1,1,1,0,0,0,1,0,1,0,0
 Colon - Transverse,1,1,1,1,1,1,0,0,0,1,0,1,0,1
 Esophagus - Gastroesophageal Junction,1,0,1,0,0,0,0,0,0,1,0,0,0,0
