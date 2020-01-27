@@ -1,9 +1,5 @@
 # UpSet of Tissues in the Common Fund Data Ecosystem
 
-## About
-
-This site is based on UpSet, an interactive, web based visualization technique designed to analyze set-based data. UpSet visualizes both, set intersections and their properties, and the items (elements) in the dataset. Please see the project website at [http://vcg.github.io/upset/about](http://vcg.github.io/upset/about) for details about the technique, publications and videos.
-
 ## CFDE Program data
 
 I am hosting this instance of UpSet at [https://acharbonneau.github.io/upset/](https://acharbonneau.github.io/upset/). The raw data used for the plot can be viewed (or edited) [here](https://github.com/ACharbonneau/upset/blob/master/data/Programs.csv). Direct links to the pages I used to compile this dataset are provided as in-line links in the next section.
@@ -59,3 +55,8 @@ The goal of this exercise is to identify where a researcher might find different
 - I assumed that skin tissue from cell culture, or furry creatures (mice, rats, etc) was not sun exposed
 - GTEx distingushes between brain tissues by region, whereas most other programs distingush by cell types that may occur variously throughout the brain. Therefore, in most cases, I can only distinguish between 'Brain', 'Spinal cord' and 'Brain stem'. So, for example, Kids First has a '1' for all brain tissues, but may or may not have samples from all of the GTEx regions. The brain tissues listed could be collapsed into 'Brain', 'Spinal cord' and 'Brain stem' without losing any data, however I have left them as is to show the variety of data available. 
 - In a few other cases, GTEx has more spatial specificity than other programs. Noteably Esophagus, Adipose, Heart and Kidney. Since GTEx uses cadavers whereas most other Program samples come from living donors, I assumed that samples from other Programs came from the more accessible/common tissue when it was not specified. Therefore tissue listed as only 'Esophagus' was classified as 'Esophagus - Mucosa', 'Adipose' was assumed to be 'Adipose - Subcutaneous', and 'Heart' was assumed to be 'Heart - Left Ventricle'. In the case of samples labeled only 'Kidney', I assumed that the tissues were not dissected before analysis, and marked both 'Kidney - Cortex' and 'Kidney - Medulla'.
+
+
+## About
+
+This site is based on UpSet, an interactive, web based visualization technique designed to analyze set-based data. UpSet visualizes both, set intersections and their properties, and the items (elements) in the dataset. Please see the project website at [http://vcg.github.io/upset/about](http://vcg.github.io/upset/about) for details about the technique, publications and videos.
