@@ -48,7 +48,7 @@ Pancreas,1,0,1,1,1,0,0,0,0,1,0,1,0,0
 Pituitary,1,0,0,0,0,0,0,1,0,0,0,0,0,0
 Prostate,1,0,1,1,0,0,0,0,0,0,0,1,0,0
 Rectum,0,1,1,0,0,0,0,0,0,0,0,1,0,0
-Retina,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+Retina,0,0,0,1,0,1,0,0,0,0,0,1,0,0
 Skin - Not Sun Exposed (Suprapubic),1,1,1,1,0,1,0,0,0,1,0,1,0,0
 Skin - Sun Exposed (Lower leg),1,1,1,1,0,0,0,0,0,1,0,1,0,0
 Small Intestine - Terminal Ileum,1,0,1,1,0,0,0,0,0,0,0,1,0,0
