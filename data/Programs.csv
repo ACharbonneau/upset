@@ -23,7 +23,7 @@ Brain - Spinal cord (cervical c-1),1,0,1,1,1,0,0,1,0,1,0,1,0,1
 Brain - Substantia nigra,1,0,1,1,0,0,0,1,0,1,0,1,0,1
 Breast - Mammary Tissue,1,0,1,0,0,0,0,0,0,1,0,1,0,0
 Breath,0,0,0,1,0,0,0,0,0,0,0,0,0,0
-Cells - Cultured fibroblasts,1,0,1,1,0,0,0,1,0,0,0,0,0,0
+Cells - Cultured fibroblasts,1,0,1,1,0,1,0,1,0,0,0,0,0,0
 Cells - EBV-transformed lymphocytes,1,0,1,0,0,1,0,0,0,0,0,0,0,0
 Cervix - Ectocervix,1,1,1,0,0,0,0,0,0,0,0,1,0,0
 Cervix - Endocervix,1,0,1,0,0,0,0,0,0,0,0,1,0,0
