@@ -22,15 +22,15 @@ More specifically:
 
 - I used the ['Body Site' filter options](https://portal.hmpdacc.org/search/s?facetTab=cases) from the Human Microbiome Project.
 
-- LINCS
+- I used the [unlabeled list of tissue types (third filter section from the top on the left side of this page](http://lincsportal.ccs.miami.edu/cells/#/catalog) at LINCS.
 
-- I used the tissues shown in the ['Sample Source' bubble plot](https://www.metabolomicsworkbench.org/data/Bubble_source3.php) at Metabolomics
+- I used the tissues shown in the ['Sample Source' bubble plot](https://www.metabolomicsworkbench.org/data/Bubble_source3.php) at Metabolomics.
 
-- SPARC
+- I clicked 'EXPLORE DATASET' for [each dataset listing, and read through the descriptions](https://data.sparc.science/browse/#/?searchType=datasets&searchTerms=) for SPARC.
 
-- 4D Nucleome
+- On the [4D Nucleome Data Browser](https://data.4dnucleome.org/browse/?award.project=4DN&experimentset_type=replicate&type=ExperimentSetReplicate) I restricted the datasets to only '4DNucleome' and used the 'Tissue Source' filter options.
 
-- MoTrPAC
+- For MoTrPAC, I used [this tissue list](http://study-docs.motrpac-data.org/MoTrPAC_External_Data_Release_ReadMe.pdf)
 
 - Kids First
 
