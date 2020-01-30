@@ -4,6 +4,9 @@
 
 I am hosting this instance of UpSet at [https://acharbonneau.github.io/upset/](https://acharbonneau.github.io/upset/). The raw data used for the plot can be viewed (or edited) [here](https://github.com/ACharbonneau/upset/blob/master/data/Programs.csv). Direct links to the pages I used to compile this dataset are provided as in-line links in the next section.
 
+In addition to the UpSet view, I have also plotted that same data as a heatmap, overlaid with some variables describing general data types. You can view a static version of that plot here:
+[HeatMap of UpSet data](https://github.com/ACharbonneau/upset/blob/master/data/CF_ProgramOverlaps.pdf).
+
 ## Data Collection
 
 The dataset is a simple binary code:
