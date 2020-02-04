@@ -27,16 +27,16 @@ Cells - Cultured fibroblasts,1,0,1,1,0,1,0,1,0,0,0,0,0,0
 Cells - EBV-transformed lymphocytes,1,0,1,0,0,1,0,0,0,0,0,0,0,0
 Cervix - Ectocervix,1,1,1,0,0,0,0,0,0,0,0,1,0,0
 Cervix - Endocervix,1,0,1,0,0,1,0,0,0,0,0,1,0,0
-Colon - Sigmoid,1,1,1,1,1,1,0,0,0,1,0,1,0,0
-Colon - Transverse,1,1,1,1,1,1,0,0,0,1,0,1,0,1
+Colon - Sigmoid,1,1,1,1,1,1,0,0,1,1,0,1,0,0
+Colon - Transverse,1,1,1,1,1,1,0,0,1,1,0,1,0,1
 Esophagus - Gastroesophageal Junction,1,0,1,0,0,0,0,0,0,1,0,0,0,0
 Esophagus - Mucosa,1,1,1,0,0,0,0,0,0,1,0,1,0,0
 Esophagus - Muscularis,1,0,0,0,0,0,0,0,0,1,0,0,0,0
 Fallopian Tube,1,0,0,0,0,0,0,0,0,0,0,1,0,0
 Heart - Atrial Appendage,1,0,1,1,1,0,0,0,0,0,0,1,0,0
-Heart - Left Ventricle,1,0,1,1,1,1,1,1,0,1,0,1,0,0
-Kidney - Cortex,1,0,1,1,0,1,0,1,0,1,0,1,0,0
-Kidney - Medulla,1,0,1,1,0,1,0,1,0,1,0,1,0,0
+Heart - Left Ventricle,1,0,1,1,1,1,1,1,1,1,0,1,0,0
+Kidney - Cortex,1,0,1,1,0,1,0,1,1,1,0,1,0,0
+Kidney - Medulla,1,0,1,1,0,1,0,1,1,1,0,1,0,0
 Liver,1,0,1,1,0,0,1,1,0,1,0,1,0,0
 Lung,1,0,1,1,0,1,0,0,0,0,0,1,0,1
 Minor Salivary Gland,1,1,0,1,0,0,0,0,0,0,1,0,0,1
@@ -51,7 +51,7 @@ Rectum,0,1,1,0,0,0,0,0,0,0,0,1,0,0
 Retina,0,0,0,1,0,1,0,0,0,0,0,1,0,0
 Skin - Not Sun Exposed (Suprapubic),1,1,1,1,0,1,0,0,0,1,0,1,0,0
 Skin - Sun Exposed (Lower leg),1,1,1,1,0,0,0,0,0,1,0,1,0,0
-Small Intestine - Terminal Ileum,1,0,1,1,0,0,0,0,0,0,0,1,0,0
+Small Intestine - Terminal Ileum,1,0,1,1,0,0,0,0,1,0,0,1,0,0
 Spleen,1,0,0,1,0,0,0,0,0,1,0,1,0,0
 Stomach,1,0,1,0,1,0,0,0,0,1,0,1,0,0
 Testis,1,0,1,0,0,0,0,0,0,1,0,1,0,0
@@ -62,5 +62,5 @@ Vagina,1,1,1,0,0,0,0,0,0,0,0,1,0,0
 Whole Blood,1,1,1,1,0,1,1,1,0,1,1,1,0,1
 Optic Nerve,0,0,0,1,0,0,0,1,0,1,1,1,0,0
 Bone Marrow,0,0,0,1,0,0,0,1,0,1,1,1,0,0
-Thymus,0,0,0,0,0,0,0,0,0,1,1,1,0,0
+Thymus,0,0,0,0,0,0,0,0,1,1,1,1,0,0
 Thalamus,0,0,0,0,0,0,0,1,0,0,0,1,0,0
